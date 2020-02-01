@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IDE
+.idea/
+
+# Docs
+docs/*
+!docs/.gitkeep
+
+# OS X
+.DS_Store
