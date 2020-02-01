@@ -107,9 +107,11 @@ dist
 # IDE
 .idea/
 
-# Docs
+# Generated files
 docs/*
 !docs/.gitkeep
+src/css/*
+!src/css/.gitkeep
 
 # OS X
 .DS_Store
